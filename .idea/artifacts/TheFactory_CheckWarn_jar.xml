@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TheFactory_CheckWarn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TheFactory_CheckWarn_jar</output-path>
+    <root id="archive" name="TheFactory_CheckWarn.jar">
+      <element id="module-output" name="TheFactory_CheckWarn" />
+    </root>
+  </artifact>
+</component>
